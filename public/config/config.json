@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1df105be51455c45af917bc08f403f172927eb77",
+  "SCAN_LINK": "https://explorer.emerald.oasis.dev/address/0x1df105BE51455c45Af917bC08F403f172927eb77",
+  "NETWORK": {
+    "NAME": "Oasis Emerald",
+    "SYMBOL": "ROSE",
+    "ID": 42262
+  },
+  "NFT_NAME": "Oasis Kops",
+  "SYMBOL": "KOPS",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/collection/oasis-kops",
+  "SHOW_BACKGROUND": true
+}
